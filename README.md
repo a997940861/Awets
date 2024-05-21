@@ -13,6 +13,7 @@
 技术性讨论，包括：控制方式，风控处理，自动化，群控，协议破解，安全监控，告警,又放票啦。
 
 微信公众号：Awets
+![0475f89791fc893f5d64348600a3d4b](https://github.com/a997940861/Awets/assets/142517678/da751522-5ef7-4318-ab8d-60bbdde3f8a9)
 
 ![微信图片_20240516011945](https://github.com/a997940861/Awets/assets/142517678/a0f5bc3b-6779-497c-95bf-b5d8a22bd58c)
 
